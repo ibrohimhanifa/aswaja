@@ -1,11 +1,11 @@
 <template>
 <footer class="flex justify-center m-10 text-green-500 bg-white">
     <div class="container pt-6 ">
-        <div>
+        <!-- <div>
             <h1 class="my-10 text-center text-lg font-bold lg:text-2xl">
                 Mari bersama wujudkan pendidikan yang menyeluruh<br> bagi serluruh rakyat Indonesia
             </h1>
-        </div>
+        </div> -->
         <div class="bg-white py-8 w-full">
             <div class="container mx-auto px-8">
                 <div class="table w-full">

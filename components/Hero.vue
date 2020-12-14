@@ -5,13 +5,14 @@
         <div class="md:max-w-6xl md:mx-auto">
           <div class="md:flex md:flex-wrap">
             <div class="md:w-1/2 text-center md:text-left md:pt-16">
-              <h1 class="font-bold text-white text-2xl md:text-5xl leading-tight mb-4">Tempat di mana peradaban bermula </h1>
+              <h1 class="font-bold text-white text-2xl md:text-5xl leading-tight mb-4">Air mineral paling segar di dunia</h1>
               <p class="text-white md:text-xl md:pr-48">
-                Setiap kita berhak mendapatkan pendidikan yang layak.
-                Karena waktu tidak dapat dihentikan, maka segeralah persiapkan
-                generasi terbaik setelah kita untuk memimpin bangsa ini di masa mendatang
+                <span class="font-bold">
+                  Aswaja Yashrab Alma
+                </span>
+                  merupakan air mineral yang berasal dari sumber mata air pegunungan terpilih yang terfilter secara alami dan kaya mineral alami yang memberikan kesegaran dan kebaikan pada tubuh kita
               </p>
-              <a href="https://wa.me/+6287880990741" target="_blank" class="btn-hero">Kontak</a>
+              <a href="https://wa.me/+62817813777" target="_blank" class="btn-hero">Pesan Sekarang</a>
             </div>
             <div class="md:w-1/2 relative">
               <div class="hidden md:block">
