@@ -1,5 +1,9 @@
 <template>
-  <carousel :data="data"></carousel>
+  <div>
+    <no-ssr placeholder="Loading...">
+      <carousel :data="data"></carousel>
+    </no-ssr>
+  </div>
 </template>
 
 <script>
