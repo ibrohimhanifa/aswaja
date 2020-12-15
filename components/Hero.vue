@@ -16,7 +16,7 @@
               memberikan kesegaran dan kebaikan pada tubuh kita
             </p>
             <a
-              href="https://wa.me/+62817813777"
+              href="https://wa.me/+6287746445826"
               target="_blank"
               class="btn-hero"
               >Pesan Sekarang</a

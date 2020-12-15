@@ -12,9 +12,9 @@
           class="inline-block cursor-pointer md:hidden"
           @click="isOpen = !isOpen"
         >
-          <div class="bg-green-500 w-7 my-2" style="height: 2px"></div>
-          <div class="bg-green-500 w-7 my-2" style="height: 2px"></div>
-          <div class="bg-green-500 w-7 my-2" style="height: 2px"></div>
+          <div class="bg-green-500 w-8 my-2" style="height: 2px"></div>
+          <div class="bg-green-500 w-8 my-2" style="height: 2px"></div>
+          <div class="bg-green-500 w-8 my-2" style="height: 2px"></div>
         </div>
       </div>
 
