@@ -17,9 +17,7 @@ export default {
   css: [],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: [
-    { src: '~/plugins/vue-carousel', ssr: false },
-  ],
+  plugins: [{ src: '~/plugins/vue-carousel', ssr: false }],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: true,
@@ -45,6 +43,6 @@ export default {
     cssPath: '~/assets/css/tailwind.css',
     configPath: 'tailwind.config.js',
     exposeConfig: false,
-    config: {}
-  }
+    config: {},
+  },
 }

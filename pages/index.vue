@@ -1,12 +1,10 @@
 <template>
   <div>
     <Hero />
-    <Carousel />
+    <!-- <Carousel /> -->
   </div>
 </template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
