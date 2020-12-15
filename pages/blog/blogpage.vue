@@ -1,7 +1,6 @@
 <template>
   <div>
-    <ProductList />
-    <Process />
+    <ArticlePost />
   </div>
 </template>
 

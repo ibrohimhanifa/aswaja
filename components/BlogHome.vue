@@ -25,12 +25,11 @@
             regret. Stimulated discretion impossible admiration in particular
             conviction up.
           </p>
-          <a
-            href="./blog.html"
+          <nuxt-link
+            to="/blog/blogpage"
             class="inline-block px-6 py-3 mt-2 rounded-md bg-green-700 text-gray-100"
+            >Read more</nuxt-link
           >
-            Read more
-          </a>
         </div>
         <!-- sub-main posts -->
         <div class="w-full md:w-4/7">
