@@ -5,7 +5,7 @@
     >
       <div class="flex justify-between items-center">
         <nuxt-link to="/" class="py-2 px-4 rounded-lg bg-white">
-          <img src="~/assets/image/logo.png" alt="logo" width="100" />
+          <img src="~/assets/image/logo1.png" alt="logo" width="100" />
         </nuxt-link>
 
         <div

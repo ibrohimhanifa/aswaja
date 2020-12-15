@@ -11,7 +11,7 @@
           <div class="table w-full">
             <div class="sm:table-cell my-10 pr-5">
               <p class="text-white">.</p>
-              <img src="~/assets/image/logo.png" width="200" />
+              <img src="~/assets/image/logo1.png" width="200" />
             </div>
             <div class="block sm:table-cell">
               <p class="title-footer">Kontak</p>

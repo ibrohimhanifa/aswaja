@@ -24,7 +24,7 @@
           </div>
           <div class="md:w-1/2 relative">
             <div class="hidden md:block">
-              <img src="~/assets/image/logo.png" alt="hero" />
+              <img src="~/assets/image/logo1.png" alt="hero" />
             </div>
           </div>
 
