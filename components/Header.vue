@@ -24,6 +24,8 @@
       >
         <nuxt-link to="/" class="nav-menu2">Beranda</nuxt-link>
         <nuxt-link to="/about" class="nav-menu2">Tentang Kami</nuxt-link>
+        <nuxt-link to="/product" class="nav-menu2">Produk</nuxt-link>
+        <nuxt-link to="/blog" class="nav-menu2">Artikel</nuxt-link>
         <nuxt-link to="/contact" class="nav-menu2">Kontak</nuxt-link>
       </div>
 
@@ -31,6 +33,8 @@
         <div class="hidden md:block">
           <nuxt-link to="/" class="nav-menu">Beranda</nuxt-link>
           <nuxt-link to="/about" class="nav-menu">Tentang Kami</nuxt-link>
+          <nuxt-link to="/product" class="nav-menu">Produk</nuxt-link>
+          <nuxt-link to="/blog" class="nav-menu">Artikel</nuxt-link>
           <nuxt-link to="/contact" class="nav-menu">Kontak</nuxt-link>
         </div>
       </div>

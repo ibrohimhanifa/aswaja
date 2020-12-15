@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Vision />
+    <Profile />
   </div>
 </template>
 
