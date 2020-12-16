@@ -2,6 +2,7 @@
   <div>
     <!-- <Hero /> -->
     <Banner />
+    <WhatsApp />
   </div>
 </template>
 

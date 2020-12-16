@@ -1,5 +1,5 @@
 <template>
-  <div class="px-4 py-4 md:sticky top-0 z-10">
+  <div class="px-4 py-4 sticky top-0 z-10">
     <div
       class="md:max-w-6xl md:mx-auto md:flex md:items-center md:justify-between"
     >
