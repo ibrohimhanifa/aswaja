@@ -14,7 +14,7 @@
                 height="768"
                 controls
               >
-                <source src="~/assets/video/video2.mp4" type="video/mp4" />
+                <source src="~/assets/video/proses2.mp4" type="video/mp4" />
               </video>
             </div>
             <div class="px-4 py-4 md:px-10">
@@ -37,7 +37,7 @@
                 height="768"
                 controls
               >
-                <source src="~/assets/video/video1.mp4" type="video/mp4" />
+                <source src="~/assets/video/proses1.mp4" type="video/mp4" />
               </video>
             </div>
             <div class="px-4 py-4 md:px-10">
