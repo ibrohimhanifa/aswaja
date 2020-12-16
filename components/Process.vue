@@ -8,11 +8,14 @@
         <div class="w-full lg:w-1/2 md:px-4 lg:px-6 py-5">
           <div class="bg-white hover:shadow-xl">
             <div class="">
-              <img
-                src="https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                alt=""
+              <video
                 class="h-56 w-full border-white border-8 hover:opacity-25"
-              />
+                width="1024"
+                height="768"
+                controls
+              >
+                <source src="~/assets/video/video2.mp4" type="video/mp4" />
+              </video>
             </div>
             <div class="px-4 py-4 md:px-10">
               <h1 class="font-bold text-lg">Proses 1</h1>
@@ -28,11 +31,14 @@
         <div class="w-full lg:w-1/2 md:px-4 lg:px-6 py-5">
           <div class="bg-white hover:shadow-xl">
             <div class="">
-              <img
-                src="https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                alt=""
+              <video
                 class="h-56 w-full border-white border-8 hover:opacity-25"
-              />
+                width="1024"
+                height="768"
+                controls
+              >
+                <source src="~/assets/video/video1.mp4" type="video/mp4" />
+              </video>
             </div>
             <div class="px-4 py-4 md:px-10">
               <h1 class="font-bold text-lg">Proses 2</h1>
@@ -51,7 +57,7 @@
           <div class="bg-white hover:shadow-xl">
             <div class="">
               <img
-                src="https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                src="~/assets/image/proses2.jpg"
                 alt=""
                 class="h-56 w-full border-white border-8 hover:opacity-25"
               />
@@ -71,7 +77,7 @@
           <div class="bg-white hover:shadow-xl">
             <div class="">
               <img
-                src="https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                src="~/assets/image/proses3.jpg"
                 alt=""
                 class="h-56 w-full border-white border-8 hover:opacity-25"
               />
