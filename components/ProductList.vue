@@ -12,112 +12,96 @@
           <div
             class="w-full max-w-sm mx-auto rounded-md shadow-md overflow-hidden"
           >
-            <div
-              class="flex items-end justify-end h-56 w-full bg-cover"
-              style="
-                background-image: url('https://images.unsplash.com/photo-1495856458515-0637185db551?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
-              "
-            ></div>
+            <img
+              class="flex items-end justify-end w-full bg-cover"
+              src="../assets/image/produk1.png"
+            />
             <div class="px-5 py-3">
-              <h3 class="text-gray-700 uppercase">Classic watch</h3>
+              <h3 class="text-gray-700 uppercase">Produk 1</h3>
               <span class="text-gray-500 mt-2">$123</span>
             </div>
           </div>
           <div
             class="w-full max-w-sm mx-auto rounded-md shadow-md overflow-hidden"
           >
-            <div
-              class="flex items-end justify-end h-56 w-full bg-cover"
-              style="
-                background-image: url('https://images.unsplash.com/photo-1524592094714-0f0654e20314?ixlib=rb-1.2.1&auto=format&fit=crop&w=689&q=80');
-              "
-            ></div>
+            <img
+              class="flex items-end justify-end w-full bg-cover"
+              src="../assets/image/produk2.png"
+            />
             <div class="px-5 py-3">
-              <h3 class="text-gray-700 uppercase">Old watch</h3>
+              <h3 class="text-gray-700 uppercase">Produk 2</h3>
               <span class="text-gray-500 mt-2">$95</span>
             </div>
           </div>
           <div
             class="w-full max-w-sm mx-auto rounded-md shadow-md overflow-hidden"
           >
-            <div
-              class="flex items-end justify-end h-56 w-full bg-cover"
-              style="
-                background-image: url('https://images.unsplash.com/photo-1532667449560-72a95c8d381b?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
-              "
-            ></div>
+            <img
+              class="flex items-end justify-end w-full bg-cover"
+              src="../assets/image/produk3.png"
+            />
             <div class="px-5 py-3">
-              <h3 class="text-gray-700 uppercase">Classic watch</h3>
+              <h3 class="text-gray-700 uppercase">Produk 3</h3>
               <span class="text-gray-500 mt-2">$125</span>
             </div>
           </div>
           <div
             class="w-full max-w-sm mx-auto rounded-md shadow-md overflow-hidden"
           >
-            <div
-              class="flex items-end justify-end h-56 w-full bg-cover"
-              style="
-                background-image: url('https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
-              "
-            ></div>
+            <img
+              class="flex items-end justify-end w-full bg-cover"
+              src="../assets/image/produk4.png"
+            />
             <div class="px-5 py-3">
-              <h3 class="text-gray-700 uppercase">fossil watch</h3>
+              <h3 class="text-gray-700 uppercase">Produk 4</h3>
               <span class="text-gray-500 mt-2">$180</span>
             </div>
           </div>
           <div
             class="w-full max-w-sm mx-auto rounded-md shadow-md overflow-hidden"
           >
-            <div
-              class="flex items-end justify-end h-56 w-full bg-cover"
-              style="
-                background-image: url('https://images.unsplash.com/photo-1434056886845-dac89ffe9b56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
-              "
-            ></div>
+            <img
+              class="flex items-end justify-end w-full bg-cover"
+              src="../assets/image/produk5.png"
+            />
             <div class="px-5 py-3">
-              <h3 class="text-gray-700 uppercase">braun watch</h3>
+              <h3 class="text-gray-700 uppercase">Produk 5</h3>
               <span class="text-gray-500 mt-2">$49</span>
             </div>
           </div>
           <div
             class="w-full max-w-sm mx-auto rounded-md shadow-md overflow-hidden"
           >
-            <div
-              class="flex items-end justify-end h-56 w-full bg-cover"
-              style="
-                background-image: url('https://images.unsplash.com/photo-1526045431048-f857369baa09?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
-              "
-            ></div>
+            <img
+              class="flex items-end justify-end w-full bg-cover"
+              src="../assets/image/produk6.png"
+            />
             <div class="px-5 py-3">
-              <h3 class="text-gray-700 uppercase">rolex watch</h3>
+              <h3 class="text-gray-700 uppercase">Produk 6</h3>
               <span class="text-gray-500 mt-2">$86</span>
             </div>
           </div>
           <div
             class="w-full max-w-sm mx-auto rounded-md shadow-md overflow-hidden"
           >
-            <div
-              class="flex items-end justify-end h-56 w-full bg-cover"
-              style="
-                background-image: url('https://images.unsplash.com/photo-1495857000853-fe46c8aefc30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
-              "
-            ></div>
+            <img
+              class="flex items-end justify-end w-full bg-cover"
+              src="../assets/image/produk7.png"
+            />
             <div class="px-5 py-3">
-              <h3 class="text-gray-700 uppercase">MVMtx watch</h3>
+              <h3 class="text-gray-700 uppercase">Produk 7</h3>
               <span class="text-gray-500 mt-2">$100</span>
             </div>
           </div>
           <div
             class="w-full max-w-sm mx-auto rounded-md shadow-md overflow-hidden"
           >
-            <div
-              class="flex items-end justify-end h-56 w-full bg-cover"
-              style="
-                background-image: url('https://images.unsplash.com/photo-1444881421460-d838c3b98f95?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80');
-              "
-            ></div>
+            <img
+              class="flex items-end justify-end w-full bg-cover"
+              src="../assets/image/produk8.png"
+            />
             <div class="px-5 py-3">
-              <h3 class="text-gray-700 uppercase">breitling watch</h3>
+              <h3 class="text-gray-700 uppercase">Produk 8</h3>
               <span class="text-gray-500 mt-2">$180</span>
             </div>
           </div>
