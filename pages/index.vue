@@ -1,7 +1,7 @@
 <template>
   <div>
-    <Hero />
-    <!-- <Carousel /> -->
+    <!-- <Hero /> -->
+    <Banner />
   </div>
 </template>
 

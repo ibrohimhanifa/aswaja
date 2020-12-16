@@ -14,24 +14,46 @@
               <img src="~/assets/image/logo1.png" width="200" />
             </div>
             <div class="block sm:table-cell">
-              <p class="title-footer">Kontak</p>
+              <p class="title-footer">Kantor Pusat</p>
               <ul class="list-reset text-xs mb-6">
                 <li class="">
                   <p class="list-footer">
-                    Jalan Lontar No. 2 RT. 014 / RW. 007 <br />
+                    Jalan Lontar No. 2<br />
                     Menteng Atas, Setia Budi <br />
                     Jakarta Selatan <br />
                     DKI Jakarta 12960
                   </p>
                 </li>
                 <li class="">
-                  <p class="list-footer">bimbelmonggo@gmail.com</p>
+                  <p class="list-footer">aisaswaja@gmail.com</p>
                 </li>
                 <li class="">
-                  <p class="list-footer">+6281287213766 (Engga)</p>
+                  <p class="list-footer">+6281287213766 (Randy)</p>
                 </li>
               </ul>
             </div>
+            <div class="block sm:table-cell">
+              <p class="title-footer">Pabrik</p>
+              <ul class="list-reset text-xs mb-6">
+                <li class="">
+                  <p class="list-footer">
+                    Jalan Lontar No. 2<br />
+                    Menteng Atas, Setia Budi <br />
+                    Jakarta Selatan <br />
+                    DKI Jakarta 12960
+                  </p>
+                </li>
+                <li class="">
+                  <p class="list-footer">
+                    Jalan Lontar No. 2<br />
+                    Menteng Atas, Setia Budi <br />
+                    Jakarta Selatan <br />
+                    DKI Jakarta 12960
+                  </p>
+                </li>
+              </ul>
+            </div>
+            <!-- 
             <div class="block sm:table-cell">
               <p class="title-footer">Media Sosial</p>
               <ul class="list-reset text-xs mb-6">
@@ -76,7 +98,7 @@
                   >
                 </li>
               </ul>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
